@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello, World!");
         int a = 2;
-        int b=6;
+        int b=5;
         int c=10;
         int atimesb = a*b;
         if (atimesb == c) {
@@ -13,7 +13,8 @@ public class Main {
         else {
             System.out.println("Not Equal");
         }
-
     }
+
+
 
 }
