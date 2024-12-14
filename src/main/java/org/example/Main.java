@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello, World!");
         int a = 2;
         int b=6;
-        int c=10;
+        int c=8;
         int atimesb = a*b;
         if (atimesb == c) {
             System.out.println("Both are Equal");}
